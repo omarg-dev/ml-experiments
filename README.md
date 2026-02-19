@@ -28,7 +28,6 @@
 - [📌 Features](#-features)
 - [📁 Project Structure](#-project-structure)
   - [📑 Project Index](#-project-index)
-- [📜 License](#-license)
 
 ---
 
